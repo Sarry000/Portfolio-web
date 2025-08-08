@@ -70,4 +70,3 @@ To set up this project on your local machine, follow these steps:
 I'm always open to connecting with other developers and professionals. Feel free to reach out!
 
 * **GitHub:** [@Sarry000](https://github.com/Sarry000)
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url/) *(Don't forget to add your link!)*
