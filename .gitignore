@@ -7,19 +7,52 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build output
+dist/
+dist-ssr/
+build/
+.out/
+.next/
+coverage/
+.cache/
+
+# Local environment and secrets
+.env
+.env.local
+.env.*.local
+config.json
+*.key
+*.pem
+*.secret
+private.pem
+*.sqlite
+*.db
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Backup and temp files
+*.bak
+backup/
+tmp/
+temp/
+*.tmp
+
+# Miscellaneous
+public/uploads/
+# Add more folders with sensitive/personal info if needed
