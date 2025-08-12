@@ -1,21 +1,20 @@
 <div align="center">
-  <h1 align="center">My Personal Portfolio Website</h1>
-  <p align="center">
-    A clean, modern, and fully responsive personal portfolio website showcasing my projects and skills.
-  </p>
+  <h1 align="center">My Personal Portfolio Website</h1>
+  <p align="center">
+    A clean, modern, and fully responsive personal portfolio website showcasing my projects and skills.
+  </p>
 </div>
 
 <div align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/9dd29358-87df-4ae3-8cfe-f4832e5576d1)" alt="Portfolio Demo" width="700"/>
+  <img src="https://github.com/user-attachments/assets/ce1c9685-8eb1-4ec8-8afa-bfc2ad6699e1" alt="Portfolio Demo" width="700"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
 ---
@@ -52,16 +51,16 @@ This portfolio is built with a focus on simplicity and performance, using fundam
 
 To set up this project on your local machine, follow these steps:
 
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/Sarry000/Portfolio-web.git](https://github.com/Sarry000/Portfolio-web.git)
-    ```
-2.  **Navigate into the directory:**
-    ```sh
-    cd Portfolio-web
-    ```
-3.  **Open in your browser:**
-    Simply open the `index.html` file to view the website.
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/Sarry000/Portfolio-web.git](https://github.com/Sarry000/Portfolio-web.git)
+    ```
+2.  **Navigate into the directory:**
+    ```sh
+    cd Portfolio-web
+    ```
+3.  **Open in your browser:**
+    Simply open the `index.html` file to view the website.
 
 ---
 
