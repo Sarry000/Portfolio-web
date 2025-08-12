@@ -4,6 +4,8 @@ import profileImage from '../../public/images/Profile.png';
 import rocketBoosterGif from '../../public/images/Rocket-Booster.gif'; 
 import MazeGif from '../../public/images/Maze.gif';
 import Telegram from '../../public/images/Telegram.png'; 
+import Portfo from '../../public/images/Portfo.png'; 
+import VOice from '../../public/images/Voice.png'; 
 const Projects = () => {
   const [selectedCategory, setSelectedCategory] = useState('All');
   
@@ -33,7 +35,7 @@ const Projects = () => {
       id: 3,
       title: 'AI Voice Interviewer',
       description: 'Built a self-hostable AI-powered voice interviewer leveraging n8n workflows, Google Gemini LLM, and browser-based Speech-to-Text APIs for simulating realistic, context-aware interview practice. Integrated voice-to-text and text-to-speech for seamless interactions.',
-      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: VOice,
       category: 'APIs',
       technologies: ['n8n', 'Google Gemini LLM', 'Speech-to-Text', 'AI'],
       liveUrl: 'https://n8n.io/workflows/6614-practice-job-interviews-with-voice-based-google-gemini-ai-interviewer/',
@@ -43,7 +45,7 @@ const Projects = () => {
       id: 4,
       title: 'Personal Portfolio',
       description: 'Developed a responsive personal portfolio website showcasing projects and skills. Built during internship at Oasis InfoByte, demonstrating proficiency in web technologies and modern design principles.',
-      image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: Portfo,
       category: ['Web Apps', 'UI/UX'],
       technologies: ['React', 'JavaScript', 'CSS', 'HTML'],
       liveUrl: 'https://github.com/Sarry000/',
