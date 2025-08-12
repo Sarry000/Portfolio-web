@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/your-screenshot.png" alt="Portfolio Demo" width="700"/>
+  <img src="![Image](https://github.com/user-attachments/assets/9dd29358-87df-4ae3-8cfe-f4832e5576d1)" alt="Portfolio Demo" width="700"/>
 </div>
 
 <br/>
